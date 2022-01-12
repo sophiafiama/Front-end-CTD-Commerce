@@ -2,6 +2,8 @@
 Resultado do projeto: 
 https://front-end-ctd-commerce.vercel.app/
 
+Figma do projeto: https://www.figma.com/file/PCuJW5ZZd3phs7kLKo6Ygp/E-Commerce-UI-Kit-V1.1-(Community)?node-id=4%3A1
+
 Proposição do trabalho 
 Requisitos Front-end:
 
